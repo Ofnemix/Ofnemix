@@ -6,6 +6,11 @@ Junior Python Developer in training — 100 Days of Code Boot camp <br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+# 🚀 My Projects:
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=Ofnemix&repo=My_projects&theme=gruvbox)](https://github.com/Ofnemix/My_projects)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ofnemix&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ofnemix&theme=gruvbox&hide_border=false)<br/>
