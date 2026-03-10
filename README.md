@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I'm Noemi! <br>🐍 
+👋 Hi, I'm Noemi! <br> 
 🐍 Junior Python Developer in training — 100 Days of Code Bootcamp <br>
 💼 Background in Back Office & Microsoft 365 <br>
 🌱 Currently learning: Python • Automation • Problem Solving
